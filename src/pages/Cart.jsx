@@ -206,7 +206,7 @@ export default function Cart() {
 
         {showNotify && (
           <div className="fixed top-6 right-6 z-50 rounded-xl bg-emerald-600 px-5 py-3 text-white shadow-lg">
-            ✔ Thanh toán thành công!
+            Thanh toán thành công!
           </div>
         )}
       </div>
